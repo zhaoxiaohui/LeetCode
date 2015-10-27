@@ -6,7 +6,7 @@ And will be updated toward to the newest.
 
 Unfortunately, I can't get the private problems, If you can
 
-please feel free to [contact](zhaoxiaohui.sinaapp.com) me.
+please feel free to [contact](http://zhaoxiaohui.sinaapp.com) me.
 
 ---
 
