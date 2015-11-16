@@ -2,7 +2,7 @@
  *	 Description: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
  *	      Author: zhaoxiaohui
  *	        Site: zhaoxiaohui.sinaapp.com
- *	        Date: 2014
+ *	        Date: 2015-11-16
  */
 
 class Solution {
