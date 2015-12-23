@@ -41,7 +41,7 @@ public:
 		while (true) {
 			slow = nums[slow] - 1;
 			rebegin = nums[rebegin] - 1;
-			if (slow == rebegin) return slow;
+			if (slow == rebegin) return slow + 1;
 		}
 	}
     int findDuplicate(vector<int>& nums) {
